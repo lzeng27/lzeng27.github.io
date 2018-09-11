@@ -1,4 +1,9 @@
-# Good Design
+---
+layout: page
+title: Good Design
+description: Good Design in Science Building
+
+---
 
 <img src="{{ site.baseurl }}/img/good.jpg" data-rotate="90"/>
 
