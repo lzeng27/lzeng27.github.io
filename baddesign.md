@@ -1,4 +1,9 @@
-# Bad Design 
+---
+layout: page
+title: Bad Design
+description: Bad Design in Paresky
+
+---
 
 <img src="{{ site.baseurl }}/img/bad.jpg" data-rotate="90"/>
 
