@@ -1,4 +1,4 @@
-This is an example of bad design at Williams. 
+title: Bad Design
 
 <img src="{{ site.baseurl }}/img/bad.jpg" data-rotate="90"/>
 
