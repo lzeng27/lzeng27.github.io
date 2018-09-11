@@ -1,4 +1,4 @@
-title: Bad Design
+# Bad Design 
 
 <img src="{{ site.baseurl }}/img/bad.jpg" data-rotate="90"/>
 
