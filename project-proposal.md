@@ -7,7 +7,7 @@ description: A more enriching learning experience at museums
 
 <figure align="center">
   <img src="{{site.baseurl}}/img/museum.jpg" data-rotate="90" alt="my alt text" height = "600" class="center"/>
-  <figcaption><i>This picture was taken by me at the Metropolitan Museum of Art, June 2018.</i></figcaption>
+  <figcaption><i>At the Metropolitan Museum of Art, June 2018, taken by me.</i></figcaption>
 </figure>
 
 # Problem and Motivation
@@ -20,4 +20,7 @@ One of the current solutions that museums use is providing blocks of text as con
 
 
 # New proposed solution
+
+
+
 
