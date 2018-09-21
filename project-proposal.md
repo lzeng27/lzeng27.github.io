@@ -5,8 +5,10 @@ description: A more enriching learning experience at museums
 
 ---
 
-<img src="{{ site.baseurl }}/img/museum.jpg" data-rotate="90"/>
-
+<figure>
+  <img src="{{site.baseurl}}/img/museum.jpg" data-rotate="90" alt="my alt text"/>
+  <figcaption>This picture was taken at the Metropolitan Museum of Art, June 2018.</figcaption>
+</figure>
 
 # Problem and motivation
 
