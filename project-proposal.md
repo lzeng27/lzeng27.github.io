@@ -5,6 +5,9 @@ description: A more enriching learning experience at museums
 
 ---
 
+<img src="{{ site.baseurl }}/img/museum.jpg" data-rotate="90"/>
+
+
 # Problem and motivation
 
 The design problem I want to address is providing a better learning experience for museum visitors. This is an important problem because art is often seen as a selective space and is accessible only to those who have a background in art. In this way, museums may only attract a self-selecting population. From my personal experience, as someone who doesn’t have a background in art history, my opinions about art pieces are my immediate reactions e.g. it looks nice. In my own experience, I wanted to learn more about art, but didn’t know how. 
