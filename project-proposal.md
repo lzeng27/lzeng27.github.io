@@ -6,7 +6,7 @@ description: A more enriching learning experience at museums
 ---
 
 <figure>
-  <img src="{{site.baseurl}}/img/museum.jpg" data-rotate="90" alt="my alt text" height = "200"/>
+  <img src="{{site.baseurl}}/img/museum.jpg" data-rotate="90" alt="my alt text" height = "600" class = "center"/>
   <figcaption><i>This picture was taken by me at the Metropolitan Museum of Art, June 2018.</i></figcaption>
 </figure>
 
