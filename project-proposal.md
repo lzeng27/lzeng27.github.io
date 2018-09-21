@@ -1,3 +1,10 @@
+---
+layout: page
+title: Project Proposal
+description: A more enriching learning experience at museums
+
+---
+
 ##Problem and motivation:
 
 The design problem I want to address is providing a better learning experience for museum visitors. This is an important problem because art is often seen as a selective space and is more accessible to those who have a background in art. In this way, museums may only attract a selective population. From my personal experience as someone who doesn’t have a background in art history, my opinion about art pieces is my immediate reaction e.g. it looks nice. In my experience I wanted to learn more about art, but didn’t know how. 
