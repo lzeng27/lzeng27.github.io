@@ -7,7 +7,7 @@ description: A more enriching learning experience at museums
 
 <figure>
   <img src="{{site.baseurl}}/img/museum.jpg" data-rotate="90" alt="my alt text" height = "200"/>
-  <figcaption><i>This picture was taken at the Metropolitan Museum of Art, June 2018.</i></figcaption>
+  <figcaption><i>This picture was taken by me at the Metropolitan Museum of Art, June 2018.</i></figcaption>
 </figure>
 
 # Problem and motivation
@@ -17,4 +17,6 @@ The design problem I want to address is providing a better learning experience f
 # Analysis of problem
 
 The current solution many museums employ is guided museum tours. In addition, museums often have a block of text outside the exhibit providing context and explanations for the exhibit. For other pieces, there is often a small block of text next to the artwork. Though this is a means of providing information about the museums, there can be situations where there a lot of text and visitors don’t have the attention span to spend significant amounts of time reading.
+
+# New proposed solution
 
