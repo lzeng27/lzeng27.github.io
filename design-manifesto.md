@@ -31,16 +31,16 @@ In addition, understanding your users makes for a stronger, evidence-based desig
 
 Iterations also helped us refine our paper prototype. In *Prototyping for Tiny Fingers*, Rettig argues that lo-fi prototyping should be quick and designers should not be tied down to certain ideas. Lo-fi prototype also allows for quick feedback. When we made our paper prototype, we went through many iterations before arriving at our final prototype. For our initial prototype, we overlooked many things—one of the main issues was back buttons. After doing a heuristic evaluation, a cognitive walkthrough, we accordingly made changes to our design e.g. adding signifiers for interacting with art pieces, help options, etc. We also made further changes to our paper prototype after our usability tests. We learned that as designers, it was easy to overlook things since we weren’t thinking from the perspective of the user. Moreover, many of our major changes came from feedback during our usability tests such as changing the wording of our welcome screen and adding headers to our search results. It was through all of these steps and iterations that we were able to heavily refine our paper prototype to arrive at our final paper prototype, which was much more user-friendly than our original design. I think it’s safe to say that we most certainly wouldn’t have arrived at this design without all these iterations to help us refine our design.
 
-![final paper prototype](img/design-manifesto/final_paper_prototype.JPG)
+![final paper prototype](img/design-manifesto/final_paper_prototype.JPG){:height="60%" width="60%"}
 
-![digital mockup](img/design-manifesto/digital_mockup.png)
+![digital mockup](img/design-manifesto/digital_mockup.png) {:height="60%" width="60%"}
 
 ## 3.	Design is about finding a balance in simplicity
 Something that came up recurrently was the notion of finding a balance in each step of the design process. In our project, I noticed this when we were designing tasks. Based on our data, we developed [6 tasks](https://omondieric.github.io/whereYouArt/taskReview/), but our design ultimately supported two. From instructor feedback and completing a task review, we learned that some of the tasks we designed were too high-level. For example, one of our initial tasks was “revisit past galleries,” which ultimately ended up being one of our tasks, but in doing our design review, we realized that we could break down this task, resulting in our second task, which was “interact with a past gallery.” In developing the tasks we had to find a balance on the level of complexity.
 
 In another instance, we saw the need to find a balance was when we were making our paper prototype. Before creating a paper prototype, I’d read about keeping paper prototypes simple and text could be replaced with fake text. I’d misinterpret the extent of this simplicity and so, in our initial paper prototype, for our search results, I just made a list with scribbles and nothing else. Making the paper prototype was a vast oversimplification of paper prototyping. As the designer, I knew what the intended list was supposed to be, and it wasn’t until our first usability test that I learned that having a list of scribbles is really ambiguous for a user who is unfamiliar with the app. In this step of the design process, we again had to find a balance between simplicity and complexity of paper prototyping.
 
-:--------------------------------------------------|:-------------------------------------------------------:
+:-------------------------------------------------:|:-------------------------------------------------------:
 ![old search](img/design-manifesto/old_search.jpg) |  ![new search](img/design-manifesto/updated_search.jpg)
 
 ## 4.	Accessibility – The user is not like you
