@@ -65,6 +65,13 @@ One of the main ideas that we learned throughout this course is that the user is
 ## 5.	 Ethics – Understand the impact of your work
 As most of us are computer programmers, sometimes it can feel as if we’re so far removed from the end user that we don’t think about how our work might impact the end user. But we have to understand that our work will make an impact on the lives of others and if we are not always creating in the interest of humanity, then we could potentially harm many people. For example, because of software and hardware issues, the Therac-25 caused six documented cases of radiation overdose. There are countless modern examples of big companies mishandling user information or using loopholes for the interest of themselves. Some ethical guidelines to follow are [ACM’s General Ethical Principles]( https://www.google.com/url?q=https%3A%2F%2Fethics.acm.org%2F&sa=D&sntz=1&usg=AFQjCNECGQAnVCFWIlPgCbymnie1P8pIMg) and [HHI’s The Signal Code]( https://drive.google.com/file/d/13zPDIGJGRb6YPp720pGyaYYRkYn87qx3/view?usp=sharing). 
 
+### My Personal Code of Ethics
+
+- Always think about the impact on the end user
+- Avoid doing harm
+- Respect the privacy and rights of others
+- Be honest and transparent 
+
 No matter what we do in computer science, whether it’s programming or designing, we must always consider the ethics of what we’re doing. The end users of our products are human beings.
 
 ## Conclusion
