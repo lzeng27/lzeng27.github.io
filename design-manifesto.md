@@ -24,6 +24,7 @@ In our design process for [Where You Art](https://omondieric.github.io/whereYouA
 
 ![affinity diagram 1](img/design-manifesto/affinity-diagram2.jpg){:height="60%" width="60%"}
 ![affinity diagram 2](img/design-manifesto/affinity-diagram1.jpg){:height="60%" width="60%"}
+
 *Our affinity diagram*
 
 When we design, our goal is to design something that users will actually want and use. By conducting these contextual inquiries, we had data to support our design decisions to reflect what users would actually want in a design (It is important to note that we only conducted three contextual inquiries, and this is by no means representative of all users. Moreover, given the circumstances, our users were all Williams students, and this is not representative of the general population of WCMA visitors.)
@@ -43,6 +44,7 @@ Iterations also helped us refine our paper prototype. In *Prototyping for Tiny F
 
 
 ![final paper prototype](img/design-manifesto/final_paper_prototype.JPG){:height="75%" width="75%"}
+
 *Our final paper prototype*
 
 ![digital mockup](img/design-manifesto/digital_mockup.png)
