@@ -9,7 +9,7 @@ subtitle: Good design is more than just aesthetics
 
 Last year, I visited a design museum in Denmark. One particular part of the museum caught my attention—it was these two huge shelves of chairs that spanned a hallway from floor to ceiling. I was perplexed that a museum would have so many variations of chairs and that they could be so pleasant on the eyes. They also had a poster collection, spanning from propaganda to pop art. In a rush, I didn’t have time to learn more about these collections, and I was left only with my visceral reaction to the museum—everything looked so nice. I thought design was mostly about the aesthetics. After taking this course and working on our design project, [Where You Art]( https://omondieric.github.io/whereYouArt/), an augmented reality app that allows users to view past galleries in current museum galleries, I learned that aesthetics is only a small part of design. Instead, good design is centered on the users, all of whom can be very differnt. 
 
-Here are 5 core principles to good design:
+Here are my 5 core principles to good design:
 
 -	Understand the user before designing
 -	Good design requires many iterations 
